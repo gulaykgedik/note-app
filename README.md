@@ -31,3 +31,7 @@ This project is a Note-App that allows you to easily create, edit, delete, and v
 ## 📸 Screenshots
 
 ---
+![note-app](https://github.com/user-attachments/assets/e2aedcb7-139e-47f3-91bf-801641b51618)
+
+
+
